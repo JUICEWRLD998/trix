@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.next/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+strategy/
+.playwright-mcp/
+screenshots/tmp/
+.claude/settings.local.json
