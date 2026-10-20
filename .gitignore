@@ -11,3 +11,6 @@ strategy/
 .playwright-mcp/
 screenshots/tmp/
 .claude/settings.local.json
+
+spike/raw/
+*.tsbuildinfo
